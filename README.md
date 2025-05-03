@@ -57,7 +57,7 @@ I'm a curious and driven developer who loves turning designs into interactive, r
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](www.linkedin.com/in/asitwasnik)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/asitwasnik)  
 📧 Email: **asitwasnik18@gmail.com**
 
 ---
