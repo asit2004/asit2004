@@ -40,12 +40,15 @@ I'm a curious and driven developer who loves turning designs into interactive, r
 
 ### 🗂️ Featured Projects
 
+- ✅ [Todo App](https://github.com/asit2004/todo_app)  
+  A minimal and responsive Todo application to manage daily tasks.  
+  *Built using HTML, CSS, and JavaScript.*
+
 - 🎬 [Netflix Clone](https://github.com/asit2004/netflix_clone)  
-  A pixel-perfect landing page inspired by Netflix, built with HTML & CSS.  
-  *(Fully responsive and great for beginners to study!)*
+  A pixel-perfect, fully responsive landing page inspired by Netflix.  
+  *Built with HTML & CSS — a great starting point for beginners!*
 
-> More projects in the works… stay tuned!
-
+> More exciting projects are coming soon... Stay tuned!
 ---
 
 ### 📊 GitHub Stats
