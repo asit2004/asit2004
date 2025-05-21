@@ -40,7 +40,7 @@ I'm a curious and driven developer who loves turning designs into interactive, r
 
 ### 🗂️ Featured Projects
 
-- ✅ [Todo App](https://github.com/asit2004/todo_app)  
+- ✅ [Todo App](https://github.com/asit2004/To-do-app.git)  
   A minimal and responsive Todo application to manage daily tasks.  
   *Built using HTML, CSS, and JavaScript.*
 
