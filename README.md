@@ -5,7 +5,7 @@
 📍 Indore, India
 
 ---
-
+[![@asit2004's Holopin badges](https://holopin.me/asit2004)](https://holopin.io/@asit2004)
 ### 🌐 Portfolio  
 🚧 *Coming soon – Building it one project at a time!*
 
